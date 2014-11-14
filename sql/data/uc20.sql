@@ -1,0 +1,33 @@
+/*update patients death info*/
+
+UPDATE patients SET DateOfDeath='2000-05-10', CauseOfDeath='250.30' WHERE MID=1;
+UPDATE patients SET DateOfDeath='1990-09-10', CauseOfDeath='487.00' WHERE MID=3;
+UPDATE patients SET DateOfDeath='2000-09-10', CauseOfDeath='487.00' WHERE MID=4;
+UPDATE patients SET DateOfDeath='2010-09-10', CauseOfDeath='487.00' WHERE MID=5;
+UPDATE patients SET DateOfDeath='2009-09-10', CauseOfDeath='79.10' WHERE MID=6;
+UPDATE patients SET DateOfDeath='2011-09-10', CauseOfDeath='79.30' WHERE MID=7;
+UPDATE patients SET DateOfDeath='1999-09-10', CauseOfDeath='11.40' WHERE MID=8;
+UPDATE patients SET DateOfDeath='2010-09-10', CauseOfDeath='11.40' WHERE MID=20;
+UPDATE patients SET DateOfDeath='2013-09-10', CauseOfDeath='42.00' WHERE MID=21;
+UPDATE patients SET DateOfDeath='1999-09-10', CauseOfDeath='487.00' WHERE MID=22;
+UPDATE patients SET DateOfDeath='1980-09-10', CauseOfDeath='72.00' WHERE MID=25;
+UPDATE patients SET DateOfDeath='1990-09-10', CauseOfDeath='487.00' WHERE MID=26;
+UPDATE patients SET DateOfDeath='1995-09-10', CauseOfDeath='487.00' WHERE MID=42;
+UPDATE patients SET DateOfDeath='2001-09-10', CauseOfDeath='42.00' WHERE MID=23;
+UPDATE patients SET DateOfDeath='2002-09-10', CauseOfDeath='84.50' WHERE MID=24;
+UPDATE patients SET DateOfDeath='2013-09-10', CauseOfDeath='250.00' WHERE MID=101;
+UPDATE patients SET DateOfDeath='2013-09-10', CauseOfDeath='250.00' WHERE MID=102;
+UPDATE patients SET DateOfDeath='2013-09-10', CauseOfDeath='35.00' WHERE MID=103;
+UPDATE patients SET DateOfDeath='1998-09-10', CauseOfDeath='11.40' WHERE MID=104;
+UPDATE patients SET DateOfDeath='1997-09-10', CauseOfDeath='250.10' WHERE MID=105;
+UPDATE patients SET DateOfDeath='1989-09-10', CauseOfDeath='250.10' WHERE MID=106;
+UPDATE patients SET DateOfDeath='1990-09-10', CauseOfDeath='250.30' WHERE MID=107;
+UPDATE patients SET DateOfDeath='2004-09-10', CauseOfDeath='84.50' WHERE MID=108;
+UPDATE patients SET DateOfDeath='2003-09-10', CauseOfDeath='15.00' WHERE MID=109;
+UPDATE patients SET DateOfDeath='2006-09-10', CauseOfDeath='70.10' WHERE MID=110;
+UPDATE patients SET DateOfDeath='2009-09-10', CauseOfDeath='715.09' WHERE MID=300;
+UPDATE patients SET DateOfDeath='2010-09-10', CauseOfDeath='487.00' WHERE MID=301;
+UPDATE patients SET DateOfDeath='1999-09-10', CauseOfDeath='487.00' WHERE MID=302;
+UPDATE patients SET DateOfDeath='2012-09-10', CauseOfDeath='487.00' WHERE MID=303;
+UPDATE patients SET DateOfDeath='2012-09-10', CauseOfDeath='72.00' WHERE MID=305;
+UPDATE patients SET DateOfDeath='2012-09-10', CauseOfDeath='35.00' WHERE MID=308;
